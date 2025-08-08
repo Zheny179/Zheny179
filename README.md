@@ -1,34 +1,33 @@
-<!-- 
-  👋 Привет! Это твой профиль на GitHub.
-  Он будет отображаться на https://github.com/Zheny179
--->
-
 <div align="center">
   
 # Привет, я Евгений! 👋
 
-**Frontend-разработчик | Верстаю чисто и по БЭМ** 🧱  
-Создаю адаптивные сайты с использованием HTML, SCSS и JavaScript.
+**Frontend-разработчик | Верстаю чисто и по БЭМ** 🧱  <br/>
+Создаю адаптивные сайты с использованием HTML, SCSS и JavaScript.<br/>
 
-![Веб-разработка](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-
+# 💻 Cтек технологий:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 </div>
 
 ---
 
 ## 🌟 Что я умею
-- Адаптивная и кроссбраузерная вёрстка
-- Препроцессоры: **SCSS / Sass**
-- Методология: **БЭМ**
-- Чистый и понятный код
-- Интерактив на **нативном JavaScript**
-- Работа с макетами из Figma
+- Адаптивная и кроссбраузерная вёрстка <br/>
+- Препроцессоры: **SCSS / Sass** <br/>
+- Методология: **БЭМ** <br/>
+- Чистый и понятный код <br/>
+- Интерактив на **нативном JavaScript** <br/>
+- Работа с макетами из Figma <br/>
 
 ---
 
@@ -46,9 +45,9 @@
 
 ## 📊 Статистика GitHub
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=Zheny179&show_icons=true&theme=radical)
-
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheny179&layout=compact&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=Zheny179&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Zheny179&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheny179&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 ---
 
